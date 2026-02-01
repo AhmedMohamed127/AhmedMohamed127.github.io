@@ -60807,7 +60807,7 @@ return new A.u_(A.an4(A.a7y(A.ajg(new A.DP(new A.fu(new A.bq(g,20,g,20),A.aaW(A.
 mI(a,b,c){var s=null,r=A.mD(c/2)
 return A.abJ(!1,r,!0,new A.fu(B.yS,new A.rl(A.an0(s,s,new A.mB(a,s,s)),c,c,s),s),s,!0,s,s,s,s,s,s,new A.Wj(this,b),s,s,s)}}
 A.Wk.prototype={
-$0(){this.a.kU("https://ahmedmohammed.vercel.app/")},
+$0(){this.a.kU("https://www.ahmedmohamed.info/")},
 $S:0}
 A.Wj.prototype={
 $0(){return this.a.kU(this.b)},
